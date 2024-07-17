@@ -43,9 +43,6 @@ Alerts for drivers about new ride requests and changes in ride details.
 </h3>
 Passengers and drivers can rate and review each other after the ride.
 Feedback helps maintain service quality and user satisfaction.
-<h3>Technologies Used:
-</h3>
-
 <h2>Technologies used:-
 </h2>
 <h3>Front-End Development:</h3>
