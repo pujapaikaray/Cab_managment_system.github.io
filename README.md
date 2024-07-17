@@ -51,9 +51,9 @@ CSS
 Javascript
 BootStrap
 <h3>Back-End Development:</h3>
-Java [JDK 8+]
-JDBC
-Servlet
+Java [JDK 8+],
+JDBC,
+Servlet,
 JSP
 <h3>Database:</h3>
 MySql
