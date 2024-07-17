@@ -25,11 +25,7 @@ Real-time availability check of cabs.
 
 Drivers can update their availability status.
 Access to assigned ride details including passenger information and route.
-<h3>Ride Tracking:
-</h3>
 
-Real-time tracking of booked rides using GPS integration.
-Estimated time of arrival and fare calculation based on distance.
 <h3>Payment Integration:
 </h3>
 Multiple payment options including credit/debit cards and digital wallets.
